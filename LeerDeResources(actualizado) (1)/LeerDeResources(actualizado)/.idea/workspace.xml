@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47b6e3c4-0778-4545-9efa-cbb8d317cc57" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesfm/readerText/claseEjer2ConPoo/FileToStringReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesfm/readerText/claseEjer2ConPoo/FolderReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesfm/readerText/ejer2SinPoo/FilesReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesfm/readerText/ejer2SinPoo/MainEjer2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesfm/readerText/ejer3/BufferReaderQuijote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesfm/readerText/ejer3/FileToStringReaderQuijote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesfm/readerText/ejer3/QuijoteReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesfm/readerText/ejr1/HolaReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/iesfm/readerText/ejr1/MainEjer1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/el_quijote.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/el_quijote.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/iesfm/readerText/claseEjer2ConPoo/FileToStringReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/iesfm/readerText/claseEjer2ConPoo/FolderReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/iesfm/readerText/ejer2SinPoo/FilesReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/iesfm/readerText/ejer2SinPoo/MainEjer2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/iesfm/readerText/ejer3/BufferReaderQuijote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/iesfm/readerText/ejer3/FileToStringReaderQuijote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/iesfm/readerText/ejer3/QuijoteReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/iesfm/readerText/ejr1/HolaReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/iesfm/readerText/ejr1/MainEjer1.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ygIT0uZMs0T3plyMnigsLDHB8G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="QuijoteReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.iesfm.readerText.ejer3.QuijoteReader" />
+      <module name="LeerDeResources" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.iesfm.readerText.ejer3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuijoteReader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47b6e3c4-0778-4545-9efa-cbb8d317cc57" name="Changes" comment="" />
+      <created>1632666809076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632666809076</updated>
+    </task>
+    <servers />
+  </component>
+</project>
