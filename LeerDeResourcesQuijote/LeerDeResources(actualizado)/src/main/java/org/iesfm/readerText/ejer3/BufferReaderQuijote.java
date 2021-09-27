@@ -27,7 +27,7 @@ public class BufferReaderQuijote {
             }
 
         } catch (IOException e) {
-            log.error("error al leer el Quijote");
+            log.error("error al leer el Quijote", e);
         }
     }
 }
